@@ -137,7 +137,7 @@ public class Tic_Tak {
     static void board() {
         System.out.printf("\n\n\n\t\t\t\t\t\t\tTic-Tac-Toe Game\n");
         System.out.print("\t\t\t\t\t\t__________________________________\n\n");
-        System.out.printf("\t\t\t\t\t\tPlayer - 01 (X) VS Player - 02 (O)\n\n\n");
+        System.out.printf("\t\t\t\t\t\tPlayer - 01~N (X) VS Player - 02~P (O)\n\n\n");
         
         System.out.print("\t\t\t\t\t\t\t___________________\n");
         System.out.print("\t\t\t\t\t\t\t|     |     |     |\n");
